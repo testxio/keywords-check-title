@@ -1,6 +1,6 @@
 {
   "name": "@testx/keywords-check-title",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TestX **check title** keyword",
   "main": "index.js",
   "scripts": {
