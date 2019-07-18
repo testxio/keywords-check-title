@@ -1,2 +1,15 @@
 # keywords-check-title
-TestX "check title" keyword
+
+[testx](http://testx.io) **check title** keyword
+
+## Install
+
+```sh
+npm install -S @testx/keywords-check-title
+```
+
+## Use
+
+```yaml
+- check title: Sample Title
+```
